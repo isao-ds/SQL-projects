@@ -1,11 +1,11 @@
 ### 🧑‍💻 List of projects:
 ---
 
-#### 📂 Project-0001 — Project name
+#### 📂 Project-0001p — Project name
 #### 📋 Description: Text ...
 #### 🔧 Tools: Python (Pandas, NumPy) 
 ---
-#### 📂 Project-0002 — Project name
+#### 📂 Project-0002p — Project name
 #### 📋 Description: Text ...
 #### 🛠 Tools: Python (Pandas, NumPy) 
 ---
